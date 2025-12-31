@@ -1,0 +1,3 @@
+#browser .tab-position .tab.active {
+    background-color: var(--colorHighlightBg) !important;
+}
