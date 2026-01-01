@@ -24,10 +24,10 @@ You can also hardcode colors by using Hex codes like this:
 
 ```css
 #browser .tab-position .tab.active {
-    background-color: #de733e !important;
+    background-color: #087271 !important;
 }
 
 	.tab:not(.active) {
-    background-color: #0318fc !important;
-} 
+    background-color: #343434 !important;
+}
 ```
