@@ -18,4 +18,16 @@ Vivaldi theme file and CSS mod for proper dark theme support with accent colors
 _You can change accent color in Settings > Themes > Editor > Colors > Highlight_
 
 ## Advanced Customization
-Visit vivaldi://themecolors to see theme color variables and edit CSS file to your own liking. You can also hardcode colors by using Hex codes.
+Visit vivaldi://themecolors to see theme color variables and edit CSS file to your own liking. 
+
+You can also hardcode colors by using Hex codes like this:
+
+```css
+#browser .tab-position .tab.active {
+    background-color: #de733e !important;
+}
+
+	.tab:not(.active) {
+    background-color: #0318fc !important;
+} 
+```
