@@ -13,7 +13,9 @@ Vivaldi theme file and CSS mod for proper dark theme support with accent colors
 3. Enable "Allow CSS modifications" in vivaldi://experiments
 4. Settings > Appearance > Custom UI Modifications, select folder for CSS files
 5. Put one CSS file in that folder (TDT_mode_1 or TDT_mode_2)
-6. You can change accent color in Settings > Themes > Editor > Colors > Highlight
+6. Restart Vivaldi and enjoy your new dark theme
+
+_You can change accent color in Settings > Themes > Editor > Colors > Highlight_
 
 ## Advanced Customization
-Visit vivaldi://themecolors to see theme color variables and edit CSS file to your own liking.
+Visit vivaldi://themecolors to see theme color variables and edit CSS file to your own liking. You can also hardcode colors by using Hex codes.
